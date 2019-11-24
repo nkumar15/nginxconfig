@@ -1,1 +1,1 @@
-# nginx config demo
+# nginx config
